@@ -1,0 +1,19 @@
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+#cont {
+    width: 40%;
+    height: 25%;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#input {
+    margin: 10px;
+    width: 60%;
+}
